@@ -1,0 +1,10 @@
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\bin\Debug\DbProject.exe.config
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\bin\Debug\DbProject.exe
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\bin\Debug\DbProject.pdb
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\obj\Debug\DbProject.csproj.AssemblyReference.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\obj\Debug\DbProject.Properties.Resources.resources
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\obj\Debug\DbProject.csproj.GenerateResource.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\obj\Debug\DbProject.csproj.CoreCompileInputs.cache
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\obj\Debug\DbProject.exe
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\obj\Debug\DbProject.pdb
+G:\Abdul Rehman\cs 2nd semester\Database lab\DbProject\DbProject\obj\Debug\DbProject.STForm.resources
